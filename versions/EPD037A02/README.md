@@ -31,7 +31,7 @@
 
 OSPTEK **3.7 寸 480×720 EPD** 是一款 **SPI** 接口六色电子纸模组，驱动为 **JD7601**。适用于工卡、学生证与手机后盖等低功耗显示场景。
 
-规格标识（仓库名）：`3.7-epd-480x720-spi-jd7601`
+规格标识（仓库名）：`epd-3.7-480x720-spi-jd7601`
 
 当前模组版本：**EPD037A02**。电气与外形细节以 [`docs/EPD037A02.pdf`](./docs/EPD037A02.pdf) 为准。
 
@@ -51,12 +51,12 @@ OSPTEK **3.7 寸 480×720 EPD** 是一款 **SPI** 接口六色电子纸模组，
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · JD7601 SPI 六色电子纸 bringup | [`examples/esp32s3-3.7-epd-480x720-spi-jd7601-bringup/`](./examples/esp32s3-3.7-epd-480x720-spi-jd7601-bringup/) |
+| ESP32-S3 · JD7601 SPI 六色电子纸 bringup | [`examples/esp32s3-epd-3.7-480x720-spi-jd7601-bringup/`](./examples/esp32s3-epd-3.7-480x720-spi-jd7601-bringup/) |
 
 ## 仓库结构
 
 ```text
-3.7-epd-480x720-spi-jd7601/             # 仓库根（导航见 ../../README.md）
+epd-3.7-480x720-spi-jd7601/             # 仓库根（导航见 ../../README.md）
 └── versions/
     └── EPD037A02/                      # 本料号完整资料
         ├── README.md
@@ -77,7 +77,7 @@ OSPTEK **3.7 寸 480×720 EPD** 是一款 **SPI** 接口六色电子纸模组，
 
 ### 示例工程
 
-- [ESP32-S3 · JD7601 SPI bringup](./examples/esp32s3-3.7-epd-480x720-spi-jd7601-bringup/)
+- [ESP32-S3 · JD7601 SPI bringup](./examples/esp32s3-epd-3.7-480x720-spi-jd7601-bringup/)
 
 ## 购买链接
 

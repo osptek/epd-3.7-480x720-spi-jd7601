@@ -29,7 +29,7 @@ This repository holds materials for the **3.7″ 480×720 EPD (SPI · JD7601)** 
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `3.7-epd-480x720-spi-jd7601`
+Repo id: `epd-3.7-480x720-spi-jd7601`
 
 ---
 

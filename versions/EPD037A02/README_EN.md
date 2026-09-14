@@ -31,7 +31,7 @@
 
 OSPTEK **3.7″ 480×720 EPD** is a **SPI** 6-color e-paper module driven by **JD7601**. Suited to low-power badges, student IDs, and phone-back displays.
 
-Spec ID (repository name): `3.7-epd-480x720-spi-jd7601`
+Spec ID (repository name): `epd-3.7-480x720-spi-jd7601`
 
 Current module version: **EPD037A02**. Electrical and mechanical details follow [`docs/EPD037A02.pdf`](./docs/EPD037A02.pdf).
 
@@ -51,12 +51,12 @@ Current module version: **EPD037A02**. Electrical and mechanical details follow 
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-S3 · JD7601 SPI 6-color e-paper bring-up | [`examples/esp32s3-3.7-epd-480x720-spi-jd7601-bringup/`](./examples/esp32s3-3.7-epd-480x720-spi-jd7601-bringup/) |
+| ESP32-S3 · JD7601 SPI 6-color e-paper bring-up | [`examples/esp32s3-epd-3.7-480x720-spi-jd7601-bringup/`](./examples/esp32s3-epd-3.7-480x720-spi-jd7601-bringup/) |
 
 ## Repository layout
 
 ```text
-3.7-epd-480x720-spi-jd7601/             # repo root (nav: ../../README_EN.md)
+epd-3.7-480x720-spi-jd7601/             # repo root (nav: ../../README_EN.md)
 └── versions/
     └── EPD037A02/                      # full materials for this part number
         ├── README.md
@@ -77,7 +77,7 @@ Current module version: **EPD037A02**. Electrical and mechanical details follow 
 
 ### Samples
 
-- [ESP32-S3 · JD7601 SPI bring-up](./examples/esp32s3-3.7-epd-480x720-spi-jd7601-bringup/)
+- [ESP32-S3 · JD7601 SPI bring-up](./examples/esp32s3-epd-3.7-480x720-spi-jd7601-bringup/)
 
 ## Buy
 
