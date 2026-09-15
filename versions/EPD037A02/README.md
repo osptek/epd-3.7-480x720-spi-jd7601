@@ -74,6 +74,8 @@ epd-3.7-480x720-spi-jd7601/             # 仓库根（导航见 ../../README.md�
 | ---- | ---- |
 | 产品规格书 | [`docs/EPD037A02.pdf`](./docs/EPD037A02.pdf) |
 | 3.7 寸 E6 墨水屏底板原理图 | [`docs/3.7寸E6墨水屏底板原理图.pdf`](./docs/3.7%E5%AF%B8E6%E5%A2%A8%E6%B0%B4%E5%B1%8F%E5%BA%95%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.pdf) |
+| 三维模型（STEP） | [`docs/T037A02.STEP`](./docs/T037A02.STEP) |
+| SolidWorks 装配（SLDASM） | [`docs/T037A02.SLDASM`](./docs/T037A02.SLDASM) |
 
 ### 示例工程
 

@@ -74,6 +74,8 @@ epd-3.7-480x720-spi-jd7601/             # repo root (nav: ../../README_EN.md)
 | ---- | ---- |
 | Product datasheet | [`docs/EPD037A02.pdf`](./docs/EPD037A02.pdf) |
 | 3.7″ E6 e-paper adapter schematic | [`docs/3.7寸E6墨水屏底板原理图.pdf`](./docs/3.7%E5%AF%B8E6%E5%A2%A8%E6%B0%B4%E5%B1%8F%E5%BA%95%E6%9D%BF%E5%8E%9F%E7%90%86%E5%9B%BE.pdf) |
+| 3D model (STEP) | [`docs/T037A02.STEP`](./docs/T037A02.STEP) |
+| SolidWorks assembly (SLDASM) | [`docs/T037A02.SLDASM`](./docs/T037A02.SLDASM) |
 
 ### Samples
 
