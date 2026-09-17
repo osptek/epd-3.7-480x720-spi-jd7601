@@ -6,6 +6,7 @@ panel: epd
 resolution: 480x720
 interface: [spi]
 shape: rect
+corner: sharp
 
 versions:
   - id: EPD037A02
