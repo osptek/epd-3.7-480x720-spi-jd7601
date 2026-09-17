@@ -1,0 +1,14 @@
+id: epd-3.7-480x720-spi-jd7601
+category: displays
+
+size: "3.7"
+panel: epd
+resolution: 480x720
+interface: [spi]
+shape: rect
+
+versions:
+  - id: EPD037A02
+    driver: JD7601
+    touch: none
+    note: 32-pin FPC, 6 colors (black / white / red / yellow / blue / green)
